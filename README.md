@@ -1,4 +1,6 @@
-[![mzdzieblko github stats](https://github-readme-stats.vercel.app/api?username=mzdzieblko&show_icons=true&theme=onedark)](https://github.com/mzdzieblko/mzdzieblko.github.io)
+[![mzdzieblko github stats](https://github-readme-stats.vercel.app/api?username=mzdzieblko&show_icons=true&theme=tokyonight)](https://github.com/mzdzieblko/mzdzieblko.github.io)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzdzieblko)](https://github.com/mzdzieblko/mzdzieblko.github.io)
 
 # wtf-gulp-starter
 
